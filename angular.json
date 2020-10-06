@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "web-ecom-front"
+    }
+  },
+  "defaultProject": "web-ecom-front",
+  "cli": {
+    "analytics": "30468847-1565-4ae6-a3bb-6db3f0c70969"
+  }
 }
